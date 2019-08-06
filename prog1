@@ -1,0 +1,7 @@
+a=float(input())
+if a>=0:
+ print('positive')
+ elseif a==0:
+ printf('zero')
+ else a<0:
+ printf('negative')
